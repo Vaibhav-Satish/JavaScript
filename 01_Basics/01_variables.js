@@ -13,7 +13,7 @@ accountCity = "Mysore"
 console.log(accountId);
 
 /*
-prefer not to use var
+prefer NOT TO USE  var
 beacause of issue in block scope and functional scope
 */
 
